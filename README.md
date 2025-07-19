@@ -1,9 +1,9 @@
 # 🕷️ XploitSnare
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/XploitSnare)
-![GitHub stars](https://img.shields.io/github/stars/your-username/XploitSnare?style=social)
-![MIT License](https://img.shields.io/github/license/your-username/XploitSnare)
-![Python](https://img.shields.io/badge/Built%20With-Python-blue)
+![Repo Size](https://img.shields.io/github/repo-size/AkashaAzhar/XploitSnare)
+![Stars](https://img.shields.io/github/stars/AkashaAzhar/XploitSnare?style=social)
+![License](https://img.shields.io/github/license/AkashaAzhar/XploitSnare)
+![Built With](https://img.shields.io/badge/Built%20With-Python-blue)
 
 **XploitSnare** is an advanced **Cyber Security** tool that scans web applications for the **OWASP Top 10** vulnerabilities. Designed for ethical hackers, penetration testers, and red teamers, this tool helps identify critical weaknesses in target URLs.
 
