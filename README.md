@@ -28,7 +28,7 @@
 
 ### 🔗 Clone the Repository
 
-git clone https://github.com/your-username/XploitSnare.git
+git clone https://github.com/AkashaAzhar/XploitSnare.git
 cd XploitSnare
 pip install -r requirements.txt
 python start.py -t https://example.com --all
